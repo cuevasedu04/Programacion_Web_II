@@ -7,7 +7,7 @@ const server = PaquetesServidorNodeImportado.createServer((req,res)=>{
     //estableces el encabezado de respuesta
     res.writeHead(200,{'Content-Type':'text/plain'});
     //Enviamos la respuesta 
-    res.end('Hola Mundo');
+    res.end('Hola Mundo, qué oñaa :))');
 
 });
 
