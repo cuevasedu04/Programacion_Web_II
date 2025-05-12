@@ -10,7 +10,7 @@ const port = 5623;
 
 app.get('/', (req,res)=>{
     res.send('Hola mundo sin path');
-    res.sendFile("/index.html");
+    //res.sendFile("c:/Users/Cuevas/Desktop/6to Semestre/Programacion_Web_II/05052025/index.html");
 
 });
 
