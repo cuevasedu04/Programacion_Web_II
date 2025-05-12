@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 40px;
+}
+
+a{
+    display: block;
+    margin-top: 10px;
+    font-size: 20px;
+    color: aquamarine;
+    text-decoration: none;
+
+}
+
+form{
+    margin-top: 20px;
+    display: inline-block;
+    text-align: left;
+}
+label{
+    width: 10px 15px;
+    background-color: bisque;
+    color: beige;
+    cursor: pointer;
+}
