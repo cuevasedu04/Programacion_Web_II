@@ -1,5 +1,5 @@
-const exprees = require('express');
-const router = exprees.router();
+const express = require('express');
+const router = express.Router();
 const path = require('path');
 
 //Definimos las rutas y los manejadores 
