@@ -19,7 +19,7 @@ router.get("/pagina3", (req, res) => {
 
 // Ruta para index4.html
 router.get("/pagina4", (req, res) => {
-    res.sendFile(path.join(__dirname, "index4.html"));
+    res.sendFile(path.join(__dirname, "index_materialize.html"));
 });
 
 module.exports = router;
